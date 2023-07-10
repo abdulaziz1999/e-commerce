@@ -1,4 +1,4 @@
-# ecommerce
+# ecommerce + tailwindcss + daisy
 
 ## Project setup
 ```
